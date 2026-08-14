@@ -1,24 +1,52 @@
-# Hey, I'm Pratima 
+<div align="center">
 
-Operations & Sales Data Analyst by day, full-stack builder and automation expert by night — I build practical automation,tools, dashboard and forms that solve real business problems, not just portfolio pieces.
+# Hi, I'm Pratima 👋
 
-##  What I work with
-- **Backend:** Laravel, PHP, MySQL
-- **Automation:** n8n, GPT/Claude APIs,       make.com, workflow automation etc
-- **Frontend:** JavaScript, HTML/CSS
-- **Ops tools:** Microsoft Dynamics NAV,      Google Sheets/Forms dashboards
-- **Analytics Tool:** Excel, Dashboards,      Power BI, Sql, funnels etc
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Operations+%26+Data+Analyst;Full-Stack+Builder+(Laravel+%2F+PHP);Automation+%26+AI+Tools+(n8n+%2B+GPT%2FClaude);Building+%40buildwithval+on+Instagram" alt="Typing SVG" />
 
-##  Featured builds
-- **[ClientFlow CRM](https://github.com/pratima-x-val/ClientFlow-CRM)** — Laravel + MySQL CRM covering client management, task tracking, and workflow automation
-- **Outreach OS** — GPT-powered warm-lead CRM with Kanban pipeline and multi-channel lead capture (webforms, WhatsApp, Instagram), built during OpenAI Build Week
+<p>
+  <a href="https://www.linkedin.com/in/pratima-kumari-val"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/its_val.ai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:pratimakumariey@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-##  Currently
-Surfing as operations & sales analytics at my day job, while freelancing on automation and tool builds for small businesses.
-
-##  Find me elsewhere
--  Instagram: [@its_val.ai](https://instagram.com/its_val.ai) — AI automation & freelancing content
--  LinkedIn: [pratima-kumari-val](https://www.linkedin.com/in/pratima-kumari-val) 
+</div>
 
 ---
-*Open to freelance/collab work — feel free to reach out!*
+
+### 🔧 What I work with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,figma" />
+</p>
+
+**Automation & AI:** n8n · GPT/Claude APIs · Workflow Automation
+**Analytics:** Excel · KPI Dashboards · Sales Funnel Tracking · Google Sheets/Forms
+**Ops Tools:** Microsoft Dynamics NAV
+
+---
+
+### 🚀 Featured Build
+
+**[ClientFlow CRM](https://github.com/pratima-x-val/ClientFlow-CRM)** — a Laravel + MySQL CRM covering client management, task tracking, and workflow automation. Built solo as my capstone project.
+
+**Outreach OS** — GPT-powered warm-lead CRM with Kanban pipeline and multi-channel lead capture (webforms, WhatsApp, Instagram), built during OpenAI Build Week.
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pratima-x-val&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratima-x-val&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📍 Currently
+
+Coordinating operations & sales analytics at my day job, while freelancing on automation and CRM builds for small businesses. Learning Power BI next.
+
+<div align="center">
+<i>Open to freelance/collab work — feel free to reach out!</i>
+</div>
