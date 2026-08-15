@@ -22,7 +22,7 @@ Building practical tools, web pages and automation tools with Laravel + AI — c
 
 ---
 
-### 🔧 Skills
+###  SKILLS
 
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,figma&theme=dark" />
@@ -32,7 +32,7 @@ Automation: n8n · GPT/Claude APIs &nbsp;|&nbsp; Analytics: Excel · KPI Dashboa
 
 ---
 
-### 🚀 Projects
+###  PROJECTS
 
 **[ClientFlow CRM](https://github.com/pratima-x-val/ClientFlow-CRM)**
 Laravel + MySQL CRM covering client management, task tracking, and workflow automation. Built solo as my capstone project.
@@ -41,7 +41,7 @@ Laravel + MySQL CRM covering client management, task tracking, and workflow auto
 
 ---
 
-### 🧩 LeetCode Progress
+###  LEETCODE PROGRESS
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/pratima-x-val?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode stats" />
@@ -49,7 +49,7 @@ Laravel + MySQL CRM covering client management, task tracking, and workflow auto
 
 ---
 
-### 📊 Contribution Activity
+###  CONTRIBUTION ACTIVITY
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratima-x-val&show_icons=true&theme=github_dark&hide_border=true" height="165" />
