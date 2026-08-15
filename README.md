@@ -44,7 +44,7 @@ Laravel + MySQL CRM covering client management, task tracking, and workflow auto
 ###  LEETCODE PROGRESS
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/pratima-x-val?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode stats" />
+  <img src="https://leetcard.jacoblin.cool/pratima_x_val?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode stats" />
 </p>
 
 ---
