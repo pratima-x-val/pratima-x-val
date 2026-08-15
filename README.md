@@ -4,7 +4,7 @@
 
 ### Operations & Data Analyst | Full-Stack Builder | Automation & AI Tools
 
-Building practical CRM and automation tools with Laravel + AI — currently growing @buildwithval, a brand for Indian developers and freelancers.
+Building practical tools, web pages and automation tools with Laravel + AI — currently growing at @it's_val.ai. Turning ideas into shipped code. Building AI-powered tools, automating the boring stuff, documenting it all — live.
 
 <p>
   <a href="https://www.linkedin.com/in/pratima-kumari-val"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
