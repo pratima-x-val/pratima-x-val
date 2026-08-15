@@ -1,45 +1,68 @@
 <div align="center">
 
-# Hi, I'm Pratima 👋
+# Pratima Kumari
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Operations+%26+Data+Analyst;Full-Stack+Builder+(Laravel+%2F+PHP);Automation+%26+AI+Tools+(n8n+%2B+GPT%2FClaude);Building+%40buildwithval+on+Instagram" alt="Typing SVG" />
+### Operations & Data Analyst | Full-Stack Builder | Automation & AI Tools
+
+Building practical CRM and automation tools with Laravel + AI — currently growing @buildwithval, a brand for Indian developers and freelancers.
 
 <p>
   <a href="https://www.linkedin.com/in/pratima-kumari-val"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/its_val.ai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:pratimakumariey@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:pratimakumariey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=pratima-x-val&label=Profile+Views&color=0D1117&style=for-the-badge&labelColor=0D1117" alt="Profile views" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/pratima-x-val?style=for-the-badge&color=0D1117&labelColor=0D1117&label=Stars" alt="Stars" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/pratima-x-val?style=for-the-badge&color=0D1117&labelColor=0D1117&label=Followers" alt="Followers" />
 
 </div>
 
 ---
 
-### 🔧 What I work with
+### 🔧 Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,figma" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,figma&theme=dark" />
 </p>
 
-**Automation & AI:** n8n · GPT/Claude APIs · Workflow Automation
-**Analytics:** Excel · KPI Dashboards · Sales Funnel Tracking · Google Sheets/Forms
-**Ops Tools:** Microsoft Dynamics NAV
+Automation: n8n · GPT/Claude APIs &nbsp;|&nbsp; Analytics: Excel · KPI Dashboards &nbsp;|&nbsp; Ops: Microsoft Dynamics NAV
 
 ---
 
-### 🚀 Featured Build
+### 🚀 Projects
 
-**[ClientFlow CRM](https://github.com/pratima-x-val/ClientFlow-CRM)** — a Laravel + MySQL CRM covering client management, task tracking, and workflow automation. Built solo as my capstone project.
+**[ClientFlow CRM](https://github.com/pratima-x-val/ClientFlow-CRM)**
+Laravel + MySQL CRM covering client management, task tracking, and workflow automation. Built solo as my capstone project.
 
-**Outreach OS** — GPT-powered warm-lead CRM with Kanban pipeline and multi-channel lead capture (webforms, WhatsApp, Instagram), built during OpenAI Build Week.
-
----
-
+<!-- More projects coming soon -->
 
 ---
 
-### 📍 Currently
+### 🧩 LeetCode Progress
 
-Coordinating operations & sales analytics at my day job, while freelancing on automation and CRM builds for small businesses. Learning Power BI next.
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/pratima-x-val?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode stats" />
+</p>
+
+---
+
+### 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratima-x-val&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratima-x-val&theme=github-dark&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratima-x-val&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
+
+<img src="https://raw.githubusercontent.com/pratima-x-val/pratima-x-val/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+
+---
 
 <div align="center">
 <i>Open to freelance/collab work — feel free to reach out!</i>
