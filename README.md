@@ -56,7 +56,19 @@ Automation: n8n · GPT/Claude APIs &nbsp;|&nbsp; Analytics: Excel · KPI Dashboa
 ### PROJECTS
 
 **[ClientFlow CRM](https://github.com/pratima-x-val/ClientFlow-CRM)**
-A full-stack CRM built solo with Laravel and MySQL, covering client management, task tracking, and workflow automation end-to-end. Built as my capstone project, taking it from a simple student-management CRUD app to a fully functional CRM with a working sales pipeline and reporting features.
+
+A full-stack CRM built solo with Laravel and MySQL — designed to handle real client management workflows end-to-end, not just a demo app.
+
+**What it does:**
+- Tracks clients through a complete sales pipeline — lead → quotation → follow-up → won/lost
+- Task management with assignment, due dates, and status tracking per client
+- Automated workflow triggers to cut down manual follow-up work
+- Clean reporting dashboard to see pipeline health at a glance
+
+**What makes it different:**
+Most beginner CRM projects are basic CRUD apps (add/edit/delete a client record). ClientFlow goes further — it models an actual sales funnel with stage-based tracking, automates repetitive tasks instead of just storing data, and was built from a real operational need rather than as a tutorial clone. Started as a simple student-management system, evolved into a genuinely usable CRM through iterative feature builds.
+
+**Stack:** Laravel · MySQL · JavaScript · Blade
 
 <!-- More projects coming soon -->
 
@@ -74,15 +86,11 @@ A full-stack CRM built solo with Laravel and MySQL, covering client management, 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratima-x-val&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratima-x-val&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratima-x-val&theme=github-dark&hide_border=true" height="165" />
 </p>
 
----
-
-### ACHIEVEMENTS
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pratima-x-val&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratima-x-val&layout=compact&theme=github_dark&hide_border=true" height="165" />
 </p>
 
 ---
