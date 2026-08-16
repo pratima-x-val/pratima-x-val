@@ -4,7 +4,7 @@
 
 ### Operations & Data Analyst | Full-Stack Builder | Automation & AI Tools
 
-Building practical tools, web pages and automation tools with Laravel + AI — currently growing at @it's_val.ai. Turning ideas into shipped code. Building AI-powered tools, automating the boring stuff, documenting it all — live.
+Building practical CRM and automation tools with Laravel + AI — currently growing @buildwithval, a brand for Indian developers and freelancers.
 
 <p>
   <a href="https://www.linkedin.com/in/pratima-kumari-val"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -20,9 +20,11 @@ Building practical tools, web pages and automation tools with Laravel + AI — c
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=80&section=header" width="100%" />
+
 ---
 
-###  SKILLS
+### 🔧 Skills
 
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,figma&theme=dark" />
@@ -32,7 +34,7 @@ Automation: n8n · GPT/Claude APIs &nbsp;|&nbsp; Analytics: Excel · KPI Dashboa
 
 ---
 
-###  PROJECTS
+### 🚀 Projects
 
 **[ClientFlow CRM](https://github.com/pratima-x-val/ClientFlow-CRM)**
 Laravel + MySQL CRM covering client management, task tracking, and workflow automation. Built solo as my capstone project.
@@ -41,7 +43,7 @@ Laravel + MySQL CRM covering client management, task tracking, and workflow auto
 
 ---
 
-###  LEETCODE PROGRESS
+### 🧩 LeetCode Progress
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/pratima_x_val?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode stats" />
@@ -49,7 +51,7 @@ Laravel + MySQL CRM covering client management, task tracking, and workflow auto
 
 ---
 
-###  CONTRIBUTION ACTIVITY
+### 📊 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratima-x-val&show_icons=true&theme=github_dark&hide_border=true" height="165" />
@@ -60,10 +62,55 @@ Laravel + MySQL CRM covering client management, task tracking, and workflow auto
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratima-x-val&layout=compact&theme=github_dark&hide_border=true" height="165" />
 </p>
 
+<img src="https://raw.githubusercontent.com/pratima-x-val/pratima-x-val/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pratima-x-val&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📚 Currently
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**🌱 Learning**
+- Power BI
+- Data Structures & Algorithms
+- SQL (advanced queries)
+
+</td>
+<td valign="top" width="33%">
+
+**🛠️ Building**
+- Pencil-sketch AI tool
+- LeetCode solutions repo
+- Automation demos for @its_val.ai
+
+</td>
+<td valign="top" width="33%">
+
+**🎯 Goals**
+- Land an Ops/Data Analyst role
+- Grow freelance client base
+- Consistent build-in-public posting
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
-<i>Open to freelance/collab work — feel free to reach out!</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Build%20in%20Public%20·%20Ship%20Often&fontSize=28&fontColor=ffffff&fontAlignY=40" width="100%" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote" />
+
 </div>
