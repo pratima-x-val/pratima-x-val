@@ -22,15 +22,19 @@ Building practical CRM and automation tools with Laravel + AI — currently grow
 
 ---
 
-### 🔧 Skills
+### SKILLS
 
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
@@ -39,6 +43,8 @@ Building practical CRM and automation tools with Laravel + AI — currently grow
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
   <img src="https://img.shields.io/badge/Vapi-1A1A1A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hermes_AI-1A1A1A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Google_Forms-7248B9?style=for-the-badge&logo=googleforms&logoColor=white" />
   <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" />
 </p>
@@ -47,16 +53,16 @@ Automation: n8n · GPT/Claude APIs &nbsp;|&nbsp; Analytics: Excel · KPI Dashboa
 
 ---
 
-### 🚀 Projects
+### PROJECTS
 
 **[ClientFlow CRM](https://github.com/pratima-x-val/ClientFlow-CRM)**
-Laravel + MySQL CRM covering client management, task tracking, and workflow automation. Built solo as my capstone project.
+A full-stack CRM built solo with Laravel and MySQL, covering client management, task tracking, and workflow automation end-to-end. Built as my capstone project, taking it from a simple student-management CRUD app to a fully functional CRM with a working sales pipeline and reporting features.
 
 <!-- More projects coming soon -->
 
 ---
 
-### 🧩 LeetCode Progress
+### LEETCODE PROGRESS
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/pratima_x_val?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode stats" />
@@ -64,22 +70,16 @@ Laravel + MySQL CRM covering client management, task tracking, and workflow auto
 
 ---
 
-### 📊 Contribution Activity
+### CONTRIBUTION ACTIVITY
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratima-x-val&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratima-x-val&theme=github-dark&hide_border=true" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratima-x-val&layout=compact&theme=github_dark&hide_border=true" height="165" />
 </p>
 
-<img src="https://raw.githubusercontent.com/pratima-x-val/pratima-x-val/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
-
 ---
 
-### 🏆 Achievements
+### ACHIEVEMENTS
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pratima-x-val&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
@@ -87,7 +87,7 @@ Laravel + MySQL CRM covering client management, task tracking, and workflow auto
 
 ---
 
-### 📚 Currently
+### CURRENTLY
 
 <table>
 <tr>
@@ -120,10 +120,4 @@ Laravel + MySQL CRM covering client management, task tracking, and workflow auto
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Build%20in%20Public%20·%20Ship%20Often&fontSize=28&fontColor=ffffff&fontAlignY=40" width="100%" />
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:2563EB&height=200&section=header&text=Talk%20is%20cheap.%20Show%20me%20the%20code.&fontSize=26&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
