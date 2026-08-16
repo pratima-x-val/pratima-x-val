@@ -1,8 +1,6 @@
 <div align="center">
 
-# Pratima Kumari
-
-### Operations & Data Analyst | Full-Stack Builder | Automation & AI Tools
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:2563EB&height=220&section=header&text=Pratima%20Kumari&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Operations%20%26%20Data%20Analyst%20%7C%20Full-Stack%20Builder%20%7C%20Automation%20%26%20AI%20Tools&descAlignY=55&descSize=16&animation=fadeIn" width="100%" />
 
 Building practical CRM and automation tools with Laravel + AI — currently growing @buildwithval, a brand for Indian developers and freelancers.
 
@@ -19,8 +17,6 @@ Building practical CRM and automation tools with Laravel + AI — currently grow
 <img src="https://img.shields.io/github/followers/pratima-x-val?style=for-the-badge&color=0D1117&labelColor=0D1117&label=Followers" alt="Followers" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=80&section=header" width="100%" />
 
 ---
 
