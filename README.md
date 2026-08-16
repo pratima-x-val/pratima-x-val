@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:2563EB&height=220&section=header&text=Pratima%20Kumari&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Operations%20%26%20Data%20Analyst%20%7C%20Full-Stack%20Builder%20%7C%20Automation%20%26%20AI%20Tools&descAlignY=55&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:2563EB&height=200&section=header&text=Pratima%20Kumari&fontSize=45&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
+
+### Operations & Data Analyst | Full-Stack Builder | Automation & AI Tools
 
 Building practical CRM and automation tools with Laravel + AI — currently growing @buildwithval, a brand for Indian developers and freelancers.
 
