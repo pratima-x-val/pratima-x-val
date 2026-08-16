@@ -28,6 +28,15 @@ Building practical CRM and automation tools with Laravel + AI — currently grow
   <img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,figma&theme=dark" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vapi-1A1A1A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google_Forms-7248B9?style=for-the-badge&logo=googleforms&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+</p>
+
 Automation: n8n · GPT/Claude APIs &nbsp;|&nbsp; Analytics: Excel · KPI Dashboards &nbsp;|&nbsp; Ops: Microsoft Dynamics NAV
 
 ---
@@ -81,23 +90,23 @@ Laravel + MySQL CRM covering client management, task tracking, and workflow auto
 **🌱 Learning**
 - Power BI
 - Data Structures & Algorithms
-- SQL (advanced queries)
+- AI Agents
+- Pandas & NumPy
 
 </td>
 <td valign="top" width="33%">
 
-**🛠️ Building**
-- Pencil-sketch AI tool
-- LeetCode solutions repo
-- Automation demos for @its_val.ai
+**🎓 Certifications**
+- Master Diploma in Computer Education (MDCE) — IICS
+- AI Fundamentals — IBM SkillsBuild
 
 </td>
 <td valign="top" width="33%">
 
 **🎯 Goals**
-- Land an Ops/Data Analyst role
-- Grow freelance client base
-- Consistent build-in-public posting
+- Building a digital presence that captures my journey across platforms
+- Growing my freelance client base
+- Consistently enhancing myself through hands-on, real-world experience
 
 </td>
 </tr>
