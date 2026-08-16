@@ -85,13 +85,11 @@ Most beginner CRM projects are basic CRUD apps (add/edit/delete a client record)
 ### CONTRIBUTION ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratima-x-val&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratima-x-val&theme=github-dark&hide_border=true" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratima-x-val&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
+
 
 ---
 
