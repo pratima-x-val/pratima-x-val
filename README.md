@@ -49,7 +49,7 @@ Building practical CRM and automation tools with Laravel + AI — currently grow
   <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" />
 </p>
 
-Automation: n8n · GPT/Claude APIs &nbsp;|&nbsp; Analytics: Excel · KPI Dashboards &nbsp;|&nbsp; Ops: Microsoft Dynamics NAV
+
 
 ---
 
