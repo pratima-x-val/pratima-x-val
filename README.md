@@ -4,7 +4,7 @@
 
 ### Operations & Data Analyst | Full-Stack Builder | Automation & AI Tools
 
-Operations & Data Analyst by day, independent builder by choice — turning messy processes into clean systems through data, automation, and full-stack tools. Building in public under @buildwithval, sharing what I learn as I grow a global presence: CRMs, dashboards, AI-powered workflows, and the real lessons behind building solo. For builders and analysts anywhere, not just one market.
+Operations & Data Analyst by day, independent builder by choice — turning messy processes into clean systems through data, automation, and full-stack tools. Building in public under @its_val.ai, sharing what I learn as I grow a global presence: CRMs, dashboards, AI-powered workflows, and the real lessons behind building solo. For builders and analysts anywhere, not just one market.
 
 <p>
   <a href="https://www.linkedin.com/in/pratima-kumari-val"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
