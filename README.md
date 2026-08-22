@@ -4,7 +4,7 @@
 
 ### Operations & Data Analyst | Full-Stack Builder | Automation & AI Tools
 
-Building practical CRM and automation tools with Laravel + AI — currently growing @buildwithval, a brand for Indian developers and freelancers.
+Operations & Data Analyst by day, independent builder by choice — turning messy processes into clean systems through data, automation, and full-stack tools. Building in public under @its_val.ai, sharing what I learn as I grow a global presence: CRMs, dashboards, AI-powered workflows, and the real lessons behind building solo. For builders and analysts anywhere, not just one market.
 
 <p>
   <a href="https://www.linkedin.com/in/pratima-kumari-val"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -83,12 +83,7 @@ Most beginner CRM projects are basic CRUD apps (add/edit/delete a client record)
 ### CONTRIBUTION ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratima-x-val&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=0" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=pratima-x-val&theme=github-dark&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratima-x-val&layout=compact&theme=github_dark&hide_border=true&cache_seconds=0" height="165" />
+  <img src="https://github.com/users/pratima-x-val/contributions" alt="Real GitHub contribution graph" width="100%" />
 </p>
 
 ---
