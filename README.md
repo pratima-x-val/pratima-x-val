@@ -49,8 +49,6 @@ Building practical CRM and automation tools with Laravel + AI — currently grow
   <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" />
 </p>
 
-
-
 ---
 
 ### PROJECTS
@@ -85,12 +83,12 @@ Most beginner CRM projects are basic CRUD apps (add/edit/delete a client record)
 ### CONTRIBUTION ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratima-x-val&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratima-x-val&theme=github-dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pratima-x-val&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=0" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=pratima-x-val&theme=github-dark&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratima-x-val&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratima-x-val&layout=compact&theme=github_dark&hide_border=true&cache_seconds=0" height="165" />
 </p>
 
 ---
